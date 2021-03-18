@@ -1,4 +1,4 @@
-# VUTTR API
+# Tools API
 Este repositório contém uma simples API para o desafio de front-end.
 Requisitos:
 * NodeJS v5.2.0+
